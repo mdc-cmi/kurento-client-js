@@ -73,7 +73,7 @@
     "kurento-client-core": "^6.0.0",
     "kurento-client-elements": "^6.0.0",
     "kurento-client-filters": "^6.0.0",
-    "kurento-jsonrpc": "mdc-cmi/kurento-jsonrpc#master",
+    "kurento-jsonrpc": "https://github.com/mdc-cmi/kurento-jsonrpc#master",
     "promisecallback": "0.0.4",
     "reconnect-ws": "KurentoForks/reconnect-ws#master",
     "minimist": "^1.2.0"
